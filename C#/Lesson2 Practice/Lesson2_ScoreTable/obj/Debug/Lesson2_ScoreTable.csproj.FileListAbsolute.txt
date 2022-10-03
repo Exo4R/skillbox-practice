@@ -1,0 +1,8 @@
+C:\Users\meria\source\repos\Lesson2_ScoreTable\Lesson2_ScoreTable\obj\Debug\Lesson2_ScoreTable.csproj.AssemblyReference.cache
+C:\Users\meria\source\repos\Lesson2_ScoreTable\Lesson2_ScoreTable\obj\Debug\Lesson2_ScoreTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\meria\source\repos\Lesson2_ScoreTable\Lesson2_ScoreTable\obj\Debug\Lesson2_ScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\meria\source\repos\Lesson2_ScoreTable\Lesson2_ScoreTable\bin\Debug\Lesson2_ScoreTable.exe.config
+C:\Users\meria\source\repos\Lesson2_ScoreTable\Lesson2_ScoreTable\bin\Debug\Lesson2_ScoreTable.exe
+C:\Users\meria\source\repos\Lesson2_ScoreTable\Lesson2_ScoreTable\bin\Debug\Lesson2_ScoreTable.pdb
+C:\Users\meria\source\repos\Lesson2_ScoreTable\Lesson2_ScoreTable\obj\Debug\Lesson2_ScoreTable.exe
+C:\Users\meria\source\repos\Lesson2_ScoreTable\Lesson2_ScoreTable\obj\Debug\Lesson2_ScoreTable.pdb
